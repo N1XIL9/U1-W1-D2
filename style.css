@@ -1,0 +1,47 @@
+.logo {
+   text-align: center;
+}
+
+h1 {
+    text-align: center;
+}
+
+hr {
+    width: 80%;
+}
+nav ul {
+    width: 80%;
+    margin: 0 auto;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    background-color: rgb(58, 255, 255);
+    list-style-type: none;
+}
+
+nav ul li {
+    padding: 10px;
+}
+
+nav ul li a {
+    text-decoration: none;
+}
+
+main {
+    border-radius: 5px;
+    padding: 30px;
+    margin: 0 auto;
+    background-color: azure;
+    text-align: center;
+    justify-content: center;
+    width: 80%;
+}
+
+table {
+    margin: 0 auto;
+}
+
+li {
+    list-style-type: none;
+}
+
