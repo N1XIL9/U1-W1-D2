@@ -1,3 +1,4 @@
+
 .logo {
    text-align: center;
 }
@@ -54,3 +55,29 @@ tr td {
 li {
     align: justify;
 }
+
+.video {
+    text-align: center;
+}
+footer {
+    border-radius: 10px;
+    padding: 10px;
+    margin: 0 auto;
+    margin-top: 20px;
+    background-color: rgb(230, 230, 230);
+    text-align: center;
+    justify-content: center;
+    width: 80%;
+}
+
+.articoli {
+    border-radius: 10px;
+    padding: 10px;
+    margin: 0 auto;
+    margin-top: 20px;
+    background-color: rgb(230, 230, 230);
+    text-align: center;
+    justify-content: center;
+    width: 80%;
+}
+
