@@ -10,7 +10,7 @@ hr {
     width: 80%;
 }
 nav ul {
-    width: 80%;
+    width: 78%;
     margin: 0 auto;
     border-radius: 5px;
     display: flex;
@@ -28,10 +28,11 @@ nav ul li a {
 }
 
 main {
-    border-radius: 5px;
-    padding: 30px;
+    border-radius: 10px;
+    padding: 10px;
     margin: 0 auto;
-    background-color: azure;
+    margin-top: 20px;
+    background-color: rgb(230, 230, 230);
     text-align: center;
     justify-content: center;
     width: 80%;
