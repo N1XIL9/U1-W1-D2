@@ -56,8 +56,10 @@ li {
     align: justify;
 }
 
-.video {
+.video iframe {
     text-align: center;
+    border-radius: 20px;
+    width: 600px;
 }
 footer {
     border-radius: 10px;
