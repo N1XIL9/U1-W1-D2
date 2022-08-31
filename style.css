@@ -53,7 +53,7 @@ tr td {
 }
 
 li {
-    align: justify;
+    align-items: justify;
 }
 
 .video iframe {
